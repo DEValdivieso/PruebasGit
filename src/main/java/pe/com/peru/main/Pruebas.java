@@ -40,6 +40,8 @@ public class Pruebas {
         array[1]=perro;
         array[2]=perro;
 
+        //scrapy el perro
+
 
 
 
