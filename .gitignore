@@ -1,0 +1,30 @@
+*.class
+*.DS_Store
+devops/.idea/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+.idea/*
+.idea/libraries/*
+*/target/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# others
+inkafarma-parent
+/delivery-dispatcher/src/test/java/com/inkafarma/delivery/AmazonSESSample.java
+/delivery-dispatcher/src/test/java/com/inkafarma/delivery/AmazonSESSample2.java
+target/jacoco.exec
+
+*/.project
+*/.classpath
+*/.settings
+
